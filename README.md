@@ -17,7 +17,7 @@
 
 <p>
 <a href="https://github.com/robgen">
-  <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=robgen&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=robgen&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robgen&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 </a>
 </p>
